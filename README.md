@@ -1,6 +1,5 @@
 ---
 title: Offline Form Pilot
-emoji: 📋
 colorFrom: green
 colorTo: blue
 sdk: gradio

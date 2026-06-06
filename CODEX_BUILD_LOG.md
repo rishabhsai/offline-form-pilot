@@ -16,6 +16,8 @@ This project is being built with OpenAI Codex as the coding agent for the Build 
 - User selected the form-filling concept.
 - Codex initialized a fresh standalone project under `projects/offline-form-pilot`.
 - Codex added the initial README, build log, requirements, and git hygiene files.
+- Codex implemented the first Gradio app, local structured matcher, optional Hugging Face small-model assist, trace export, and engine tests.
+- Codex ran `pytest` in the project venv and a direct app smoke check.
 
 ## Planned Codex Milestones
 
