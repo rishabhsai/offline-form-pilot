@@ -45,5 +45,5 @@ python app.py
 
 ## Repository Links
 
-- GitHub: pending.
+- GitHub: https://github.com/rishabhsai/offline-form-pilot
 - Hugging Face Space: pending.
