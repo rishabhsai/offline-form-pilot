@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 
+traces/*.json
 traces/*.jsonl
 exports/*.json
 exports/*.csv
