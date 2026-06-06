@@ -39,6 +39,10 @@ hf upload rishabhsai/offline-form-pilot . --type space \
   --commit-message "Codex: upload Offline Form Pilot Space"
 ```
 
+Current personal Space:
+
+https://huggingface.co/spaces/rishabhsai/offline-form-pilot
+
 After deployment, update `README.md` with the Space URL and push one final Codex-attributed commit to GitHub.
 
 ## Space Secrets

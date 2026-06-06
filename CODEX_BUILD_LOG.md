@@ -20,6 +20,8 @@ This project is being built with OpenAI Codex as the coding agent for the Build 
 - Codex ran `pytest` in the project venv and a direct app smoke check.
 - Codex created and pushed the public GitHub repo: https://github.com/rishabhsai/offline-form-pilot
 - Codex confirmed the repo is public and added Hugging Face deployment notes plus a synthetic anonymized trace example.
+- Codex attempted to create the official `build-small-hackathon/offline-form-pilot` Space, but HF returned a 403 for missing namespace creation rights.
+- Codex created the fallback public personal Space: https://huggingface.co/spaces/rishabhsai/offline-form-pilot
 
 ## Planned Codex Milestones
 

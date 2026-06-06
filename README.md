@@ -7,7 +7,7 @@ sdk_version: 6.16.0
 app_file: app.py
 pinned: false
 license: mit
-short_description: Local-first assistant for turning confusing forms into reviewable fields.
+short_description: Review confusing forms before copying fields.
 ---
 
 # Offline Form Pilot
@@ -50,4 +50,4 @@ See `DEPLOYMENT.md` for the GitHub and Hugging Face Space commands.
 ## Repository Links
 
 - GitHub: https://github.com/rishabhsai/offline-form-pilot
-- Hugging Face Space: pending.
+- Hugging Face Space: https://huggingface.co/spaces/rishabhsai/offline-form-pilot
