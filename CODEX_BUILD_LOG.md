@@ -19,6 +19,7 @@ This project is being built with OpenAI Codex as the coding agent for the Build 
 - Codex implemented the first Gradio app, local structured matcher, optional Hugging Face small-model assist, trace export, and engine tests.
 - Codex ran `pytest` in the project venv and a direct app smoke check.
 - Codex created and pushed the public GitHub repo: https://github.com/rishabhsai/offline-form-pilot
+- Codex confirmed the repo is public and added Hugging Face deployment notes plus a synthetic anonymized trace example.
 
 ## Planned Codex Milestones
 

@@ -34,6 +34,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Deployment
+
+See `DEPLOYMENT.md` for the GitHub and Hugging Face Space commands.
+
 ## Submission Checklist
 
 - Public GitHub repo linked from this README.
