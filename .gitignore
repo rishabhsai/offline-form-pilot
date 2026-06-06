@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+traces/*.jsonl
+exports/*.json
+exports/*.csv
+*.log
+
+.env
+.DS_Store
